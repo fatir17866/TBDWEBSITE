@@ -1,0 +1,7 @@
+/* Fix: the site's own CSS only makes the contact popup scrollable below 767px; above that it has no
+   overflow rule while its parent (.section_contact) is overflow:hidden, so on desktop the contact
+   popup clips instead of scrolling when its content is taller than the viewport. */
+.section_contact .contact_component {
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
