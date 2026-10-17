@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+studionamma.com	TRUE	/	FALSE	1999999999	_cfuvid	7pzB7xeVvXafVYH6SbZeHFdiKPCVBaa3Bf1X2J5HH7g-1789476750.2458503-1.0.1.1-y4BCz47KxtkvGCjvdW8IMWJYmTVKAdk3uN9_7bE5FXw
+studionamma.com	TRUE	/	FALSE	1999999999	SameSite	None
+vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	3M8teTZlFWX60mKuTxPJ9BTpJ2GkhygOhjdvi8djQps-1789476765.5087187-1.0.1.1-dsMBtDaeaCFrowrqJpBs6aKlI4FTUMr99Vr23.4ZJBsqqpgiycvkyB_j.bi37drylLU_zZrGSJkBYR5CVJcvClugVwo5kNxEs1xfPOEDWs6LSRD1TBOdjnikvRVUeoMQ
+
